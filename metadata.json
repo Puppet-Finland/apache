@@ -1,0 +1,12 @@
+{
+  "name": "puppetfinland-apache",
+  "version": "0.6.5",
+  "author": "Puppet-Finland team",
+  "license": "BSD license",
+  "summary": "Compatibility wrapper for puppetlabs/apache",
+  "source": "https://github.com/Puppet-Finland/apache.git",
+  "project_page": "https://github.com/Puppet-Finland/apache",
+  "dependencies": [
+    { "name": "puppetfinland/apache2", "version_requirement": ">= 0.6.5" }
+  ]
+}
